@@ -1,0 +1,2 @@
+SELECT * FROM states
+EXIT
