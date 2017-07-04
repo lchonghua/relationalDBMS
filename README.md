@@ -19,6 +19,7 @@ The struture of the database is stored in a data dictionary. The dictionary has 
 2. the name of the attribute,
 3. the attribute type (I or S), and
 4. the name of file in which the table is stored.
+
 The dictionary is written back to the disk at the end of the session.
 
 
